@@ -1,0 +1,391 @@
+{
+  "tarotDeck": [
+    {
+      "id": 1,
+      "name": "Acceptance",
+      "meaning": "Is it time to truly embrace what is. Embrace what is, as it is. Acceptance is the act of releasing resistance and finding peace in the present moment. It’s not about resignation or giving up; it’s about understanding that every situation, emotion, or challenge serves a purpose in your journey. By accepting what you cannot change, you free yourself to focus on what you can transform.",
+      "message": "This card invites you to sit with what’s unfolding in your life right now without judgment or fear. Are you clinging to expectations or resisting reality? Know that acceptance doesn’t mean agreeing with or liking every aspect of your experience—it means allowing it to exist without needing to control or fight it. The path forward begins with a deep breath and a simple truth: 'This is where I am, and that’s okay.' From this place of surrender, new clarity and opportunities can emerge.",
+      "affirmation": "I embrace life as it is and trust the wisdom of the present moment to guide me.",
+      "actionStep": "Take a moment today to reflect on an area of your life where you’re feeling resistance. Ask yourself: What would it feel like to accept this as it is, even if only for now? Place your hand on your heart, breathe deeply, and repeat the affirmation above until you feel a sense of ease.",
+      "image": "acceptance.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Adventure",
+      "meaning": "Step boldly into the unknown and let curiosity guide your path. Adventure calls you to break free from routine, explore new horizons, and embrace the thrill of discovery. Life is an ever-unfolding journey, and this card reminds you to savor the experiences that expand your soul and ignite your spirit.",
+      "message": "This is a time to invite play, spontaneity, and wonder into your life. Whether it’s a physical journey, a creative endeavor, or a shift in perspective, adventure encourages you to lean into the possibilities. Trust that stepping outside your comfort zone will lead to growth, joy, and unexpected treasures. The world is rich with opportunities, and your heart is ready to explore. Don’t wait for perfect conditions—embrace the magic of the present and take that first step toward something new.",
+      "affirmation": "I embrace the spirit of adventure and trust in the beauty of the unknown.",
+      "actionStep": "Ask yourself: What is one thing I’ve always wanted to try, visit, or learn? Choose one small step to bring that adventure closer to reality today. Whether it’s booking a ticket, enrolling in a class, or simply dreaming up a new experience, take inspired action and trust in the journey.",
+      "image": "adventure.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Belief",
+      "meaning": "faith, trust. Your beliefs shape your reality. This card reminds you of the power of your inner truths and invites you to align with the beliefs that uplift and empower you. It’s time to examine the stories you tell yourself and to let go of any that no longer serve your highest good.",
+      "message": "What you believe about yourself, others, and the world becomes the lens through which you experience life. Are your beliefs rooted in love, trust, and possibility? Or are they clouded by fear, doubt, or limitation? This card encourages you to reconnect with your innate wisdom and the boundless potential of your being. Belief is the foundation of transformation. Believe in your worth, your dreams, and your ability to co-create with the universe. Trust that when you nurture empowering beliefs, the world will rise to meet you with grace and support.",
+      "affirmation": "I choose beliefs that align with my highest potential and infinite possibilities.",
+      "actionStep": "Take a quiet moment to reflect on a belief that has been holding you back. Write it down, then ask yourself: Is this belief true? What could I believe instead that supports your growth? Rewrite it as an empowering affirmation and repeat it daily until it becomes your new truth.",
+      "image": "belief.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Care",
+      "meaning": "Care is the gentle art of tending to what matters most—with kindness, intention, and love. This card calls you to nurture yourself, others, and the world around you with compassion and mindfulness. By offering care, you create a ripple of healing and connection that extends far beyond what you can see.",
+      "message": "This is a moment to prioritize care in your life. Are you offering yourself the same love and support you extend to others? Or perhaps someone close to you needs your presence and understanding. Care flows naturally when it comes from a place of balance, so ensure your cup is full before you pour it out. Small acts of care—listening without judgment, slowing down, or offering a thoughtful gesture—have the power to bring profound comfort and joy. Trust that your care is a gift to yourself and the world.",
+      "affirmation": "I give and receive care with love, balance, and grace.",
+      "actionStep": "Spend a few moments reflecting on how you can bring more care into your day. Choose one nurturing action for yourself and one for someone else—whether it’s a kind word, a moment of stillness, or a thoughtful deed. Let your care be a reflection of your heart.",
+      "image": "care.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Challenge",
+      "meaning": "Challenges are not obstacles; they are invitations to grow, evolve, and discover your inner strength. This card appears when life is asking you to rise to the occasion, face adversity with courage, and trust in your ability to overcome. Every challenge carries a hidden gift, waiting to reveal itself.",
+      "message": "You are stronger than you think. Whatever challenge you’re facing, know that it has come to you not as a punishment but as an opportunity. These moments shape your resilience, deepen your wisdom, and sharpen your clarity about what truly matters. Rather than resisting or fearing the challenge, lean into it with curiosity. Ask yourself: What can I learn from this? What part of me is being asked to grow? Trust that you have everything you need within to navigate this path.",
+      "affirmation": "I embrace challenges as opportunities for growth and trust in my ability to overcome.",
+      "actionStep": "Identify one challenge in your life right now. Write down three positive outcomes or lessons that could come from facing it. Then, take one small, empowering step toward addressing it. Celebrate your bravery, no matter how small the step may seem.",
+      "image": "challenge.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cleansed Energy",
+      "meaning": "Energy, like water, must flow freely to nourish and sustain you. This card appears when your energetic field is calling for renewal, release, and realignment. Just as we cleanse our bodies and minds, so too must we clear our spirit of stagnant or heavy energy.",
+      "message": "Your energy field is in need of a reset. You may have unknowingly absorbed emotions, thoughts, or vibrations that are not your own. This is not a burden, but an invitation—a chance to clear space for clarity, vitality, and deeper alignment with your true self. Take time to cleanse your energy, whether through breathwork, movement, nature, or intentional rituals. Let go of what no longer serves you and welcome in fresh, light-filled energy. When your field is clear, you become a magnet for harmony, inspiration, and joy.",
+      "affirmation": "I release all that is not mine and welcome in pure, radiant energy.",
+      "actionStep": "Choose one practice to clear your energy today. This could be a salt bath, a grounding meditation, smudging with sacred herbs, or simply stepping barefoot on the earth. As you do, set the intention to release any heaviness and invite in renewed vitality.",
+      "image": "cleansed_energy.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Community",
+      "meaning": "You are not meant to walk this path alone. Community is a sacred web that holds, supports, and uplifts you. This card appears as a reminder that true belonging comes not just from receiving but also from contributing, sharing, and weaving connections that nourish all.",
+      "message": "The strength of your journey is amplified by the people who walk beside you. Whether you are seeking support, offering it, or simply sharing space, community is a powerful force that brings healing, joy, and purpose. If you’ve been feeling isolated or hesitant to reach out, take this as an invitation to reconnect. Find your people, those who see you, honor you, and inspire you. And remember—community isn’t just about what you receive but also about the love, wisdom, and presence you offer in return.",
+      "affirmation": "I am supported, seen, and connected. My presence strengthens the collective.",
+      "actionStep": "Reach out to someone in your community today. Whether it’s a heartfelt message, an invitation to gather, or an act of service, nurture the connections that bring you home to yourself. If you’re seeking community, take one step toward finding or creating it. You are never alone.",
+      "image": "community.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Courage",
+      "meaning": "Courage is not the absence of fear but the decision to move forward despite it. This card appears when you are being called to trust yourself, step into your power, and face life’s challenges with an open heart. True strength lies in vulnerability, in daring to be seen, and in choosing growth over comfort.",
+      "message": "You are braver than you realize. Whatever you are facing right now, know that you have the inner fire to rise above it. Fear may whisper doubts, but your soul knows the way forward. Trust yourself. Every act of courage—no matter how small—expands your strength and resilience. If fear has been holding you back, this is your invitation to take the first step. Say yes to the things that scare you, speak your truth, and embrace the unknown with an open heart. Growth happens on the edges of comfort, and you are ready to rise.",
+      "affirmation": "I walk forward with courage, knowing I am strong, capable, and supported.",
+      "actionStep": "Identify one fear or hesitation that has been holding you back. Take one small, brave step toward overcoming it today. It could be speaking up, setting a boundary, trying something new, or simply reminding yourself that you are enough. Every courageous step strengthens your spirit.",
+      "image": "courage.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Deeper Connection",
+      "meaning": "True connection goes beyond words—it is felt in the heart, nurtured through presence, and strengthened by authenticity. This card appears when you are being called to deepen your relationships, not just with others but also with yourself and the world around you.",
+      "message": "Connection is a sacred thread that weaves through every aspect of your life. When you show up fully—without masks, without fear—you create space for real intimacy, understanding, and belonging. This is an invitation to listen more deeply, to open your heart, and to be fully present in your interactions. If you’ve been feeling disconnected, ask yourself: Where can I soften? Where can I lean in instead of pulling away? Connection flourishes when we are willing to be seen and to truly see others. You are not alone. The deeper you connect, the richer life becomes.",
+      "affirmation": "I open my heart to deeper connection, knowing that true belonging begins with presence and authenticity.",
+      "actionStep": "Take a moment today to connect deeply—with yourself, a loved one, or nature. Put away distractions, listen with intention, and allow yourself to be fully present. A heartfelt conversation, an act of kindness, or even a quiet moment of self-reflection can deepen the bonds that nourish your soul.",
+      "image": "deeper_connection.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Devotion",
+      "meaning": "Devotion is a sacred commitment, a steady flame that burns even when the winds of doubt or distraction arise. This card appears as a reminder that what you dedicate your heart to will flourish. Whether it is a practice, a purpose, a relationship, or your own personal growth, devotion calls for consistency, love, and trust in the journey.",
+      "message": "True devotion is not about perfection; it is about showing up, again and again, with an open heart. It is the quiet moments of choosing to stay present, the unwavering belief in something greater, and the willingness to nurture what matters most to you. If you have been feeling unsteady, this is an invitation to return—to anchor yourself in what is sacred to you. Whether it’s a spiritual path, a creative pursuit, or the love you hold for yourself and others, devotion asks for your presence. Trust that every small act of dedication strengthens the foundation beneath you.",
+      "affirmation": "I devote myself fully to what nourishes my heart and soul.",
+      "actionStep": "Identify one area of your life where you desire deeper devotion. Set an intention to show up for it with love and consistency. Whether it’s a daily practice, a meaningful relationship, or your personal healing, commit to one small act of devotion today and trust in its power to transform.",
+      "image": "devotion.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Discipline",
+      "meaning": "Discipline is the bridge between intention and transformation. This card appears when you are being called to commit to your path with consistency, focus, and self-honoring structure. True discipline is not about restriction—it is about devotion to what truly matters.",
+      "message": "Every great achievement, whether in personal growth, creativity, or well-being, is built on a foundation of steady effort. Discipline is not about forcing yourself but about aligning your daily actions with your deeper purpose. When you show up for yourself, again and again, you build trust in your own resilience and capability. If you’ve been feeling scattered or unmotivated, this is a reminder that small, consistent steps create lasting change. What you practice daily shapes who you become. Choose to honor your commitments, not from a place of pressure, but from a place of love and self-respect.",
+      "affirmation": "I show up with discipline and devotion, knowing that every step forward strengthens my path.",
+      "actionStep": "Identify one area of your life where you desire more discipline. Set a small, achievable commitment for today—whether it’s following through on a task, sticking to a practice, or creating structure in your day. Honor your effort, and trust in the momentum it creates.",
+      "image": "discipline.jpg"
+    },
+     {
+      "id": 12,
+      "name": "Dream",
+      "meaning": "Your dreams are whispers from your soul, guiding you toward your deepest desires and highest potential. This card appears as a reminder that your visions, hopes, and imaginings are not random—they are invitations to believe in possibility and take inspired action toward them.",
+      "message": "Dreams are the seeds of creation. What you long for is not out of reach, but it does require faith, courage, and commitment. This is your reminder to nurture your dreams, speak them into existence, and take steps—no matter how small—toward making them real. If doubt or fear has been holding you back, trust that your dreams have been placed in your heart for a reason. You are capable. You are worthy. The path may not always be clear, but with trust and persistence, you will find your way.",
+      "affirmation": "I honor my dreams as sacred visions of what is possible. I trust in my ability to bring them to life.",
+      "actionStep": "Write down one dream that is calling to you. Then, take one small step toward it today—whether it’s researching, reaching out for support, or simply affirming your belief in yourself. Every action, no matter how small, brings your dream closer to reality.",
+      "image": "dream.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Evolution",
+      "meaning": "Growth is not a destination—it is a continuous unfolding. This card appears when you are in a phase of transformation, shedding old layers and stepping into a higher version of yourself. Evolution is not always comfortable, but it is always sacred.",
+      "message": "You are not who you once were, and that is something to celebrate. Every experience, challenge, and lesson has shaped you into the person you are becoming. Trust that even in moments of uncertainty, you are being guided toward greater wisdom, strength, and authenticity. If you feel resistance, ask yourself: What am I afraid to leave behind? Growth requires release—of outdated beliefs, past versions of yourself, and anything that no longer serves your highest good. Honor where you have been, embrace where you are, and step forward with courage.",
+      "affirmation": "I embrace my evolution, trusting that every step forward aligns me with my highest self.",
+      "actionStep": "Reflect on how you have grown over the past year. What have you learned? What has shifted? Write down one way you can honor your current transformation—whether it’s through self-care, new commitments, or releasing something that no longer aligns with you.",
+      "image": "evolution.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Expression",
+      "meaning": "Your voice, your truth, and your creative essence are meant to be shared. This card appears as a reminder that authentic expression is not just a gift to yourself—it is a gift to the world. You are here to speak, create, and embody your truth without fear.",
+      "message": "Expression is the bridge between your inner world and outer reality. When you allow yourself to be fully seen and heard, you step into your power. Whether through words, art, movement, or presence, your unique way of expressing yourself holds deep medicine. If you’ve been silencing yourself, dimming your light, or hesitating to share your truth, this is your sign to release fear and step forward. You are meant to take up space. You are meant to be felt, heard, and understood. Trust that your authentic expression will call in those who are meant to receive it.",
+      "affirmation": "I express myself freely and authentically, knowing my voice and presence matter.",
+      "actionStep": "Find one way to express yourself today—write, speak, dance, create, or simply share something from your heart. Let go of the need for perfection and allow your truth to flow without judgment. The world needs your voice.",
+      "image": "expression.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Faith",
+      "meaning": "Faith is the unwavering trust that life is unfolding exactly as it should. This card appears when you are being called to surrender doubt, release control, and believe in the unseen forces guiding you. Even when the path is unclear, trust that you are being led toward something greater.",
+      "message": "You are not alone. The universe is conspiring in your favor, even if you cannot yet see the full picture. Faith is not about knowing every step ahead—it is about walking forward anyway, trusting that each moment is shaping your journey in divine timing. If fear or uncertainty has been weighing on you, take this as a reminder to lean into trust. You do not need to have all the answers; you only need to keep your heart open and take the next step. Miracles unfold when you believe they are possible.",
+      "affirmation": "I trust in the unfolding of my path, knowing that I am always supported and guided.",
+      "actionStep": "Reflect on an area of your life where you are struggling to trust. Release the need for certainty and instead, write down one reason to have faith in the process. Say a prayer, set an intention, or simply remind yourself that all is unfolding for your highest good.",
+      "image": "faith.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Freedom",
+      "meaning": "Freedom is the liberation of the soul—an invitation to break free from limitations, fears, and the expectations of others. This card appears when you are being called to step into your true essence, to live authentically, and to embrace the expansive energy that is your birthright.",
+      "message": "You are meant to be free, unrestricted by the boundaries you or others may have placed around you. Freedom isn’t always about physical movement—it’s about releasing the mental, emotional, and spiritual chains that have kept you small. If you’ve been feeling confined, this is your sign to let go of the old stories and limiting beliefs that no longer serve you. It’s time to set yourself free. Whether it’s in your work, relationships, or self-expression, true freedom comes from knowing and embracing your own power.",
+      "affirmation": "I embrace my freedom, trusting that I am worthy of limitless possibilities and boundless growth.",
+      "actionStep": "Identify one area of your life where you feel restricted or confined. Take one small step today to break free from this limitation—whether it’s speaking your truth, letting go of a toxic belief, or trying something new that brings you joy. Freedom begins with the choices you make.",
+      "image": "freedom.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Gratitude",
+      "meaning": "Gratitude is the key that opens the door to abundance. This card appears as a reminder to shift your focus toward appreciation for the present moment, for what you have, and for the blessings that surround you. When you cultivate a heart of gratitude, the universe responds with more to be thankful for.",
+      "message": "Gratitude transforms. It turns ordinary moments into extraordinary ones and allows you to see the beauty in what may seem mundane. When you take time to honor what is, you invite more of the good into your life. If you’ve been feeling discontent or overwhelmed, this is a call to pause and reflect on what is already good. No matter the challenges, there is always something to be thankful for. A simple shift in perspective can create a wave of positive energy that flows into every area of your life.",
+      "affirmation": "I am grateful for the abundance in my life, and I welcome more with an open heart.",
+      "actionStep": "Take a moment today to express gratitude for something in your life, no matter how small. Write down three things you’re thankful for, or share your appreciation with someone. Let gratitude be the lens through which you view your day, and watch how it transforms your experience.",
+      "image": "gratitude.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Grounding",
+      "meaning": "Grounding is the practice of reconnecting to the Earth and to your own center. This card appears when you are being called to anchor yourself in the present moment, releasing distractions and tuning into the steady support that the Earth provides.",
+      "message": "In times of chaos, uncertainty, or overwhelm, grounding offers you stability and clarity. It reminds you to slow down, take a deep breath, and return to the natural flow of life. Just as a tree draws nourishment from its roots, you, too, can find strength and balance when you reconnect with the Earth beneath you. If you’ve been feeling scattered or disconnected, take this as a reminder to ground yourself. Walk barefoot on the Earth, sit in nature, or close your eyes and breathe deeply to center your energy. Grounding helps you release what is no longer serving you, so you can realign with your truth.",
+      "affirmation": "I am grounded, centered, and deeply connected to the Earth. I trust in the support of the present moment.",
+      "actionStep": "Spend a few moments today connecting with nature. Whether it’s a walk outside, sitting quietly under a tree, or simply feeling the Earth beneath your feet, take time to reconnect and center your energy. Allow yourself to release any stress or tension and feel supported by the Earth’s stability.",
+      "image": "grounding.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Growth",
+      "meaning": "Growth is the unfolding of your true potential, the natural expansion of your mind, body, and spirit. This card appears when you are in a phase of transformation, reminding you that you are constantly evolving and becoming more of who you are meant to be.",
+      "message": "Just as a seed must push through the soil to bloom, growth often requires effort, patience, and resilience. While it can be challenging, it is through these moments of discomfort and change that you develop deeper wisdom, strength, and self-awareness. If you’ve been feeling stretched or out of your comfort zone, trust that this is a necessary part of your evolution. Embrace the discomfort, for it is a sign that you are moving beyond old limitations and stepping into new possibilities. Growth is not always linear, but each step forward, no matter how small, is progress.",
+      "affirmation": "I honor my growth and embrace the journey of becoming. I trust that each step brings me closer to my true self.",
+      "actionStep": "Identify one area in your life where you are experiencing growth. Celebrate the progress you’ve made, no matter how small it may seem. Take one action today that will nurture this growth—whether it’s learning something new, embracing a challenge, or practicing self-compassion.",
+      "image": "growth.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Hope",
+      "meaning": "Hope is the light that guides you through darkness, the belief that no matter the circumstance, better things are possible. This card appears when you are being called to anchor yourself in optimism and trust, even when the road ahead seems uncertain.",
+      "message": "Hope is a quiet, yet powerful force. It is the belief that tomorrow holds new possibilities, that change is possible, and that no matter how challenging the present moment is, there is always something to look forward to. When you have hope, you invite a sense of purpose and clarity that can help you navigate the most difficult of times. If you’re feeling discouraged or lost, remember that hope is not just about wishing for better—it’s about trusting that the universe is always working in your favor, even when you can’t yet see the bigger picture. Stay open to the miracles that are unfolding, even if they are not yet visible.",
+      "affirmation": "I carry hope in my heart, trusting that the best is yet to come. I believe in the possibilities of tomorrow.",
+      "actionStep": "Reflect on a time when hope helped you through a challenging situation. Let that memory remind you that no moment lasts forever. Today, take one small action that brings you closer to your dreams, even if it feels like a small step. Every step fueled by hope is a step toward healing and growth.",
+      "image": "hope.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Human Connection",
+      "meaning": "Human connection is the thread that binds us together—offering support, understanding, and the shared experience of being alive. This card appears when you are being called to nurture relationships, reach out, and deepen the connections that enrich your life.",
+      "message": "We are not meant to walk this path alone. The bonds we share with others are a vital source of strength, joy, and healing. Whether it’s through love, friendship, or collaboration, human connection reminds you that we all mirror each other’s light and shadow, teaching us about ourselves in the process. If you’ve been feeling isolated or disconnected, this is a gentle nudge to re-engage with your community, seek support, and offer your presence to others. Authentic connection is built on vulnerability, trust, and compassion. By opening your heart and reaching out, you allow others to do the same, creating a space for mutual healing and growth.",
+      "affirmation": "I honor the beauty of human connection and welcome the love, support, and wisdom that flows between us.",
+      "actionStep": "Reach out to someone in your life today—whether it’s a friend, family member, or colleague. Ask how they are, share something meaningful, or simply be present with them. Take a moment to reflect on the connections that nourish your soul and commit to nurturing them with care.",
+      "image": "human_connection.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Inspiration",
+      "meaning": "Inspiration is the spark that ignites creativity, passion, and new ideas. This card appears when you are being called to open yourself to the flow of inspiration, trusting that the universe is always sending you the guidance and ideas you need to move forward.",
+      "message": "Inspiration comes in many forms—through nature, people, dreams, or quiet moments of reflection. It is the energy that propels you toward something greater, helping you see new possibilities and connect with your deepest desires. If you’re feeling stuck or uninspired, remember that inspiration often comes when you least expect it. Give yourself permission to step away from the pressure to create and allow space for inspiration to find you. Trust that your creativity is always within you, waiting to be expressed.",
+      "affirmation": "I am open to inspiration and trust that creative ideas flow to me effortlessly.",
+      "actionStep": "Spend a few moments today in a space where you can receive inspiration—whether it’s in nature, during a quiet walk, or by engaging with something that sparks your curiosity. Allow yourself to be present, and take note of any ideas, feelings, or creative urges that arise. Follow one small spark of inspiration today.",
+      "image": "inspiration.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Integration",
+      "meaning": "Integration is the process of bringing together all the parts of yourself—mind, body, soul, and experience—into a harmonious whole. This card appears when you are being called to embrace the lessons you’ve learned, heal past wounds, and allow all aspects of yourself to align in order to move forward with clarity and balance.",
+      "message": "Integration is not about perfection; it’s about wholeness. It is the acknowledgment that every experience, every lesson, every triumph and setback, has contributed to your growth. This card invites you to honor your past, your journey, and the parts of you that may have felt disconnected or overlooked. If you’ve been feeling fragmented or as if pieces of yourself are still in the past, now is the time to integrate. Allow yourself to embrace every part of you—your strengths, your shadows, your successes, and your challenges. Through this process, you become more grounded and aligned with your true self.",
+      "affirmation": "I honor all parts of myself and embrace the journey of integration. I am whole, balanced, and aligned.",
+      "actionStep": "Reflect on any areas of your life where you may feel out of balance or disconnected. Take a moment to acknowledge the lessons you’ve learned and how they’ve shaped you. Set an intention to consciously integrate the wisdom gained from these experiences into your daily life. You may choose to meditate, journal, or simply practice being more present with yourself.",
+      "image": "integration.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Intimacy",
+      "meaning": "Intimacy is the deep connection that transcends physical touch—it’s about emotional vulnerability, trust, and the sharing of your true self with another. This card appears when you are being called to nurture deeper connections, whether with yourself or with others, and to create space for authentic closeness.",
+      "message": "True intimacy is built on openness, acceptance, and vulnerability. It invites you to let down your walls and allow others to see you fully, and to see others with the same clarity and compassion. Intimacy isn’t just about romantic relationships; it can be present in friendships, family, and even the relationship you have with yourself. If you’ve been holding back or guarding parts of yourself, this is an invitation to step into deeper trust. It’s time to embrace the courage required to be fully seen, both in your light and in your shadow. The more you allow yourself to be authentic and vulnerable, the deeper your connections will become.",
+      "affirmation": "I am worthy of deep, authentic connections. I embrace intimacy and trust in the beauty of being truly seen.",
+      "actionStep": "Reach out to someone you trust and share something vulnerable about yourself today. This can be a feeling, a thought, or even an experience that you’ve been holding onto. Allow yourself to feel the closeness that comes from being seen and heard. If you feel called, take some time to reflect on the intimacy you share with yourself—are you being fully honest with your own heart?",
+      "image": "intimacy.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Intuition",
+      "meaning": "Intuition is your inner knowing, the quiet voice of wisdom that guides you even when logic and reason are not enough. This card appears when you are being called to trust your instincts, listen to the subtle messages of your soul, and follow the whispers of your heart.",
+      "message": "Your intuition is a powerful and trustworthy guide—it is the deep, instinctive understanding that arises when you are aligned with your true self. This card reminds you that you have an innate ability to know what is right for you, even when external circumstances may seem unclear. If you’ve been second-guessing yourself or looking for answers outside of yourself, now is the time to turn inward. Trust the feelings, hunches, and dreams that arise. They are part of your soul’s wisdom, leading you toward clarity and understanding. Intuition requires trust and patience—when you listen and act on it, you align yourself with your highest path.",
+      "affirmation": "I trust my intuition to guide me. My inner knowing is clear, wise, and unwavering.",
+      "actionStep": "Spend a few moments today in quiet reflection. Close your eyes, breathe deeply, and listen to the subtle feelings or thoughts that arise. Ask yourself a question that has been on your mind and see what intuitive guidance surfaces. Trust whatever comes to you, even if it doesn’t immediately make sense. Allow yourself to act on one small piece of intuition today, and observe the clarity that follows.",
+      "image": "intuition.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Love",
+      "meaning": "Love is the force that binds us together, the energy that nourishes, heals, and transforms. This card appears when you are being called to open your heart, not just to others, but to yourself as well. Love is a practice, a state of being that flows effortlessly when nurtured and given freely.",
+      "message": "Love is not just a feeling; it is a vibration that connects all things. It invites you to approach yourself and others with compassion, understanding, and kindness. Love grows when it is shared and deepens when it is given without expectation or condition. If you’ve been holding back or finding it difficult to give or receive love, this is a reminder that you are worthy of love, exactly as you are. You don’t need to seek it outside yourself—it begins within. When you fully accept and love yourself, you open the door for love to flow freely in all areas of your life.",
+      "affirmation": "I am open to love in all its forms. I give and receive love freely and without fear.",
+      "actionStep": "Take a moment today to express love, whether through kind words, a loving gesture, or simply a smile. Practice self-love by doing something nourishing for yourself—whether it’s a quiet moment of rest, treating yourself with care, or engaging in an activity that makes you feel alive. Notice how this love expands outward to others.",
+      "image": "love.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Meditation",
+        "meaning": "Meditation is the practice of stillness and presence, a way to quiet the mind and connect with your inner wisdom. This card appears when you are being called to create space for inner reflection, to pause, breathe, and listen to the subtle guidance that arises from within.",
+        "message": "Meditation invites you to turn your attention inward, away from the distractions of daily life, and into a place of peace and clarity. In the stillness, you can reconnect with your true self and gain deeper insight into your desires, needs, and intentions. If you’ve been feeling overwhelmed or uncertain, meditation is a powerful tool to bring you back into balance. By creating a moment of stillness, you allow the noise of the world to fade, and your own inner voice to become clearer. Trust that whatever arises in meditation is meant to guide you—whether it’s a message, a feeling, or a deep knowing.",
+        "affirmation": "I create space for stillness and peace within. In meditation, I find clarity, guidance, and connection to my higher self.",
+        "actionStep": "Set aside a few minutes today to meditate—whether in silence, through guided meditation, or simply focusing on your breath. Allow your thoughts to come and go without attachment. Afterward, reflect on any insights or feelings that arose during your practice. Let this experience guide your next steps.",
+        "image": "meditation.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Nature Connection",
+        "meaning": "Nature Connection is the practice of grounding yourself in the earth’s energy, tapping into the wisdom and healing power of the natural world. This card appears when you are being called to reconnect with the earth, honor the cycles of nature, and listen to the messages it offers.",
+        "message": "Nature is always present, offering its calm, balance, and rhythms as a reminder of the interconnectedness of all things. This card invites you to step outside, breathe in the fresh air, and attune yourself to the sights, sounds, and energies of the natural world. When you are connected to nature, you remember your true essence and find peace, clarity, and renewal. If you’ve been feeling disconnected or overwhelmed, nature is the perfect balm to restore your sense of balance. The trees, the wind, the soil—everything around you is offering wisdom and guidance. Let the natural world remind you of your own cycles, strengths, and seasons of growth.",
+        "affirmation": "I am grounded, centered, and connected to the wisdom of nature. I honor the earth and allow its energy to restore and guide me.",
+        "actionStep": "Spend some time in nature today, whether it’s walking barefoot on the grass, sitting under a tree, or simply observing the natural world around you. Take a few deep breaths, allowing yourself to fully absorb the energy of the earth. As you do, reflect on what nature has to teach you in this moment—whether it’s about patience, renewal, or connection.",
+        "image": "nature_connection.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Openness",
+        "meaning": "Openness is the ability to welcome new experiences, perspectives, and possibilities with a receptive heart and mind. This card appears when you are being called to release any resistance and embrace the flow of life with curiosity and trust.",
+        "message": "Openness invites you to let go of preconceived notions, expectations, and judgments, allowing space for growth and transformation. When you are open, you allow life to unfold as it is, without trying to control every outcome. This energy invites new opportunities, deeper connections, and a richer experience of the world around you. If you’ve been holding onto fears or limiting beliefs, this is a reminder to trust in the process of life. The universe is always offering you something new—whether it’s a lesson, a person, or a moment of insight. When you remain open, you invite growth and allow yourself to move with the natural rhythm of life.",
+        "affirmation": "I am open to all that life has to offer. I trust the flow of new experiences and welcome them with a heart full of curiosity and gratitude.",
+        "actionStep": "Take a moment today to reflect on areas of your life where you may be holding onto resistance or closed-off energy. Choose one of these areas and practice being open, whether by trying something new, having an open conversation, or embracing a different perspective. Notice how it feels to welcome this openness into your life.",
+        "image": "openness.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Practice",
+        "meaning": "Practice is the art of consistent effort and dedication. This card appears when you are being called to commit to a path of steady growth and improvement, reminding you that mastery is born from persistence and patience.",
+        "message": "The journey of mastery requires consistent practice—whether in a skill, a craft, or a personal endeavor. This card asks you to recognize that growth is not always instant, and that each step, no matter how small, is part of a larger process. Success is not about perfection, but about the willingness to show up, try again, and refine your approach with every attempt. If you’ve been feeling frustrated or discouraged, know that every practice is an opportunity for learning and evolution. Don’t rush the process or judge your progress too harshly. Trust that with dedication, each effort will bring you closer to your goal, and every mistake is a lesson in disguise.",
+        "affirmation": "I embrace the process of practice and trust that every step I take brings me closer to mastery. I honor the journey of growth.",
+        "actionStep": "Identify one area in your life where you feel called to improve or grow. Commit to practicing it for a short time each day or week. Whether it’s a creative endeavor, a physical skill, or a personal habit, allow yourself to focus on the process, not just the outcome. Celebrate the small wins along the way.",
+        "image": "practice.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Receive",
+        "meaning": "Receive is the energy of openness and trust, allowing yourself to accept the blessings, love, and support that the universe and others wish to offer you. This card appears when you are being called to let go of resistance and open yourself fully to receiving, whether it be help, abundance, love, or wisdom.",
+        "message": "Receiving is just as powerful as giving. This card invites you to recognize that you are worthy of receiving all that you have asked for and more. Whether it’s help in a time of need, an opportunity you’ve been waiting for, or simply a gesture of kindness, now is the time to accept what comes your way without guilt or hesitation. If you’ve been struggling with allowing yourself to receive, reflect on any underlying beliefs that may be holding you back. Know that receiving is not a sign of weakness, but an essential part of the flow of abundance. Trust that by receiving, you are honoring the balance of giving and receiving in your life.",
+        "affirmation": "I am open and ready to receive. I trust that all that I need and desire is coming to me now.",
+        "actionStep": "Today, allow yourself to receive something—whether it’s a compliment, an offer of help, or a moment of kindness. Notice how it feels to open up to receiving. If you’ve been resisting, try to reflect on why and practice saying “yes” to the opportunities and blessings that come your way.",
+        "image": "receive.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Reflection",
+        "meaning": "Reflection is the practice of looking inward to gain clarity, insight, and understanding about where you’ve been and where you are going. This card appears when you are being called to pause, take stock of your journey, and honor the wisdom that arises from reflecting on your experiences.",
+        "message": "Reflection is a powerful tool for growth. It invites you to step back from the noise of daily life and take a moment to assess your path. By reflecting on past choices, feelings, and actions, you gain deeper insight into your desires, fears, and strengths. This process helps you to make more informed decisions and bring greater alignment to your future steps. If you’ve been feeling uncertain or unclear about your direction, reflection can offer the clarity you need. Trust that by giving yourself space to pause and reflect, you are not only honoring your past, but also opening the door to deeper self-awareness and growth.",
+        "affirmation": "I honor my past experiences and trust that reflection brings me wisdom, clarity, and understanding.",
+        "actionStep": "Take some quiet time today to reflect on a recent experience or decision. Journal or meditate on what you’ve learned, how you felt, and what you would like to do differently moving forward. Allow the insights to inform your next steps, knowing that each reflection brings you closer to your true path.",
+        "image": "reflection.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Release",
+        "meaning": "Release is the act of letting go—of old patterns, beliefs, or emotions that no longer serve your highest good. This card appears when you are being called to free yourself from attachments, making space for new growth, healing, and opportunities.",
+        "message": "Release is a powerful act of self-liberation. It invites you to examine what you are holding onto that may be keeping you stuck in the past or limiting your potential. By releasing the old, you create space for the new to enter—whether it’s fresh energy, new experiences, or a more authentic version of yourself. If you’ve been carrying burdens, grudges, or limiting beliefs, now is the time to let go. Trust that releasing what no longer serves you is an essential part of your journey, allowing you to step into a new chapter with a lighter heart and a clearer mind. Remember, letting go is not a sign of weakness—it is a courageous and empowering step toward transformation.",
+        "affirmation": "I release what no longer serves me, creating space for growth, healing, and new possibilities.",
+        "actionStep": "Identify something in your life that you feel ready to release—whether it's a physical item, a past hurt, or a limiting belief. Take a small step today to let it go, whether through journaling, meditation, or a physical act like clearing space in your home or environment. Allow the release to bring a sense of freedom and renewal.",
+        "image": "release.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Resolution",
+        "meaning": "Resolution is the energy of commitment, clarity, and determination. This card appears when you are being called to make a decision or stand firm in your intentions. It signifies the power of clarity, helping you resolve any lingering doubts and find the courage to move forward with confidence.",
+        "message": "Resolution calls you to make clear, decisive choices that align with your values and desires. It invites you to bring closure to any areas of indecision or confusion, trusting that a firm resolution will bring you the clarity and direction you seek. This card is a reminder that resolution is not just about finding an answer; it's about embracing the strength to commit to your choices and stand by them. If you’ve been hesitating or avoiding making a decision, now is the time to step into your power and resolve what has been lingering. Trust that with clarity and commitment, you have the ability to overcome any obstacles and move forward with confidence.",
+        "affirmation": "I am clear in my intentions and resolute in my decisions. I trust that every choice I make aligns with my highest good.",
+        "actionStep": "Reflect on an area of your life where you’ve been feeling indecisive or uncertain. What decision can you make today that brings clarity and resolution? Take one small, confident step toward your chosen path, trusting that this action will bring you peace and forward momentum.",
+        "image": "resolution.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Rest",
+        "meaning": "Rest is the essential practice of recharging, replenishing, and giving your body, mind, and spirit the space they need to heal and renew. This card appears when you are being called to take a break, step back, and allow yourself the time to relax and restore.",
+        "message": "Rest is not a luxury; it is a necessity for maintaining balance, health, and well-being. This card reminds you that rest is a vital part of the creative and healing process. Without it, you may burn out, lose clarity, or become disconnected from your inner wisdom. If you’ve been pushing yourself too hard or feeling depleted, this is your invitation to pause and recharge. Trust that taking the time to rest will allow you to come back stronger, more focused, and more aligned with your true purpose. Honor the cycles of rest and activity in your life, knowing that both are necessary for your overall growth and well-being.",
+        "affirmation": "I honor my need for rest and give myself permission to pause, recharge, and renew. I trust that rest supports my growth and clarity.",
+        "actionStep": "Carve out time today to rest in a way that feels nourishing to you—whether it’s taking a nap, relaxing in nature, or simply doing nothing for a while. As you rest, allow yourself to fully surrender to the process and know that you are replenishing your energy for the journey ahead.",
+        "image": "rest.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Security",
+        "meaning": "Security is the sense of stability, safety, and trust that comes from knowing you are supported, grounded, and protected. This card appears when you are being called to examine the foundations of your life, and it invites you to reinforce your sense of security from within and externally.",
+        "message": "Security is not just about external circumstances—it’s about cultivating an inner sense of peace and trust. This card asks you to reflect on areas in your life where you may be feeling uncertain or unstable. It invites you to establish a stronger foundation by nurturing your physical, emotional, and financial well-being. If you’ve been feeling anxious or insecure, take this as a reminder that security is something you can create for yourself. Trust in your ability to provide what you need, whether through practical action or through cultivating a mindset of self-worth and confidence. When you are anchored within, no external situation can shake your sense of security.",
+        "affirmation": "I am safe, secure, and supported. I trust in my ability to create a stable foundation in all areas of my life.",
+        "actionStep": "Take a moment to identify one area of your life where you would like to feel more secure—whether it's your home, finances, or emotional well-being. What small action can you take today to reinforce your sense of security in that area? Whether it's organizing your finances, setting boundaries, or creating a supportive environment, each step will bring you closer to inner and outer peace.",
+        "image": "security.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Self belief",
+        "meaning": "Self-Belief is the empowering force that comes from trusting in your own abilities, worth, and potential. This card appears when you are being called to strengthen your confidence and recognize the power that lies within you. It reminds you that you have all the tools and qualities you need to succeed and thrive.",
+        "message": "Self-belief is the foundation of success and personal fulfillment. This card invites you to reconnect with your inner strength, acknowledging the unique gifts and talents you bring to the world. If you’ve been doubting yourself or feeling uncertain, remember that self-belief is not about being perfect; it’s about trusting in your journey, embracing your imperfections, and knowing that you are enough just as you are. When you believe in yourself, you unlock the potential to create, achieve, and overcome any challenges that come your way. Don’t let fear or self-doubt hold you back—believe in your power and take bold steps toward what you desire.",
+        "affirmation": "I trust in my abilities and believe in my potential. I am worthy of success, happiness, and all that I desire.",
+        "actionStep": "Identify one area where you’ve been doubting your abilities or feeling insecure. Take one small action today that moves you closer to your goal in that area, remembering that self-belief grows through practice and persistence. Celebrate your efforts, no matter how small they seem, as they all build your confidence.",
+        "image": "self_belief.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Shift",
+        "meaning": "Shift represents a change in perspective, energy, or circumstances that creates room for growth, transformation, and new possibilities. This card appears when you are on the cusp of an important change—whether it’s internal, external, or both. A shift can feel unsettling, but it is ultimately a sign that you are being guided toward something more aligned with your highest self.",
+        "message": "A shift is often a turning point, a moment where things begin to fall into place or reveal themselves in a new light. Whether it’s a shift in your mindset, your environment, or your circumstances, it’s important to embrace this change rather than resist it. Change can bring discomfort, but it also brings new opportunities, clarity, and freedom. If you’ve been feeling stuck or uncertain, know that a shift is coming to break up old patterns and open the door to new possibilities. Trust that this change is guiding you toward something better—something that aligns more closely with your true desires and purpose.",
+        "affirmation": "I welcome the shifts in my life as opportunities for growth and transformation. I trust that change is guiding me toward my highest good.",
+        "actionStep": "Identify an area of your life where you feel ready for change. Reflect on what’s shifting—whether it’s a small adjustment or a big transformation—and take one conscious step toward embracing that shift. Let go of what’s no longer serving you and make space for the new to enter.",
+        "image": "shift.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Solitude",
+      "meaning": "Solitude is the sacred space where you reconnect with yourself, away from the distractions and expectations of the outside world. This card appears when you are being called to embrace the power of alone time, to recharge, reflect, and rediscover your inner wisdom. Solitude is not loneliness; it is a purposeful retreat that allows you to listen to your soul’s needs and desires.",
+      "message": "Solitude is an opportunity for deep self-reflection and personal growth. It is a space where you can hear your own thoughts and feel your own heart, free from the noise and influence of others. This time alone allows you to process emotions, tap into creativity, and reconnect with your true self. If you’ve been feeling overwhelmed or disconnected from yourself, solitude can offer the clarity and peace you need. It’s a reminder that being alone does not mean being abandoned—it’s a chance to nurture your own energy and listen to the guidance within.",
+      "affirmation": "I honor and embrace the power of solitude. In my alone time, I reconnect with my inner wisdom, creativity, and peace.",
+      "actionStep": "Carve out some time for yourself today, whether it’s a quiet walk in nature, a solo meditation session, or simply sitting with your thoughts in stillness. Use this time to reconnect with your inner voice, allowing the peace of solitude to guide you toward clarity and renewal.",
+      "image": "solitude.jpg"
+  },
+  {
+      "id": 40,
+      "name": "Stability",
+      "meaning": "Stability represents a solid foundation, inner balance, and a sense of security that allows you to weather life's challenges with resilience. This card appears when you are being called to establish or reinforce the grounding structures in your life—whether emotional, physical, or financial—that will support you for the long term. Stability is not about avoiding change, but about finding your center and remaining rooted through it.",
+      "message": "Stability is the energy of grounding and creating a sense of order, safety, and support in your life. It’s about building a strong base from which you can grow, take risks, and navigate life's uncertainties. If you’ve been feeling unsteady or uncertain, this card serves as a reminder to return to your center, realign with your values, and create a foundation that nurtures your well-being. Remember that true stability comes from within. It’s about knowing that, no matter what happens externally, you are anchored and able to adapt. By taking time to strengthen the core areas of your life—such as your health, finances, relationships, or spiritual practices—you will create lasting security and peace.",
+      "affirmation": "I am grounded, centered, and stable. I trust in the strength of my foundation and my ability to navigate any challenges that arise.",
+      "actionStep": "Identify an area of your life where you desire more stability. It could be your finances, health, or emotional well-being. Take one small, practical step to strengthen that area today—whether it’s setting a new routine, creating a budget, or simply practicing mindfulness to stay present and balanced.",
+      "image": "stability.jpg"
+  },
+  {
+      "id": 41,
+      "name": "Strength",
+      "meaning": "Strength represents the inner power, resilience, and courage that resides within you. This card appears when you are being called to tap into your deeper reserves of strength—whether through facing a challenge, overcoming an obstacle, or simply standing in your own truth. True strength is not about force or dominance, but about patience, compassion, and the ability to stay grounded in the face of adversity.",
+      "message": "Strength is not only about physical power; it’s about emotional, mental, and spiritual fortitude. This card reminds you that your true strength comes from your ability to remain calm, focused, and compassionate, even in difficult times. It’s about knowing when to be gentle with yourself and others, and when to stand firm in your convictions. If you’re facing a difficult situation or feeling challenged, know that you possess the inner strength to navigate through it. Trust that every step you take, no matter how small, is a testament to your resilience and ability to rise. Your strength is limitless, and it is there to support you in every moment.",
+      "affirmation": "I am strong, resilient, and capable. I trust in my inner power to face challenges with grace and courage.",
+      "actionStep": "Reflect on a challenge or obstacle you are currently facing. Take a moment to acknowledge your inner strength and the resilience that has brought you this far. Take one action today that requires courage or determination—whether it’s setting a boundary, standing up for yourself, or taking a step toward a goal. Trust that with each action, your strength grows.",
+      "image": "strength.jpg"
+  },
+  {
+      "id": 42,
+      "name": "Support",
+      "meaning": "Support represents the energies, relationships, and resources that help you feel nurtured, encouraged, and strengthened in your journey. This card appears when you are being reminded that you do not have to carry everything alone. Whether it’s through the love of others, a guiding hand, or your own inner resilience, support is always available to you when you are open to receiving it.",
+      "message": "Support is a vital part of the human experience. It’s a reminder that asking for help is a sign of strength, not weakness. This card encourages you to seek out the support you need, whether from loved ones, colleagues, mentors, or even the universe itself. If you’ve been struggling in silence or trying to do everything alone, take this as a sign to lean on others and allow them to lighten your load. At the same time, be aware of the ways you offer support to others. You may be called to give as much as you receive, offering your care and compassion to someone else who needs it. By sharing support and love, you create a network of connection and healing that benefits everyone involved.",
+      "affirmation": "I am open to giving and receiving support. I trust that I am surrounded by love, guidance, and encouragement on my journey.",
+      "actionStep": "Reach out to someone today—whether it’s asking for support, offering help, or simply connecting with a friend. Allow yourself to receive love and guidance, and in turn, offer your strength and care to someone else. Recognize that support flows both ways, and it strengthens all who are involved. Be or turn to someone you can rely on.",
+      "image": "support.jpg"
+  },
+  {
+      "id": 43,
+      "name": "Truthfulness",
+      "meaning": "Truthfulness is the energy of honesty, integrity, and authenticity. This card appears when you are being called to align with your inner truth, to speak your truth, and to live in a way that reflects who you truly are. It reminds you that your voice, your heart, and your soul are worthy of being heard, and that living authentically creates a foundation for deeper connection and peace.",
+      "message": "Truthfulness is not always easy, but it is always freeing. When you are honest with yourself and others, you open the door to genuine connections and meaningful growth. This card asks you to examine any areas in your life where you may be holding back, hiding your feelings, or pretending to be something you’re not. It’s time to release the burden of inauthenticity and step into the freedom that comes from embracing your true self. Living in truth means expressing yourself without fear of judgment or rejection. Trust that by being true to yourself, you invite others to do the same, creating an environment where honesty, respect, and love can thrive.",
+      "affirmation": "I speak and live my truth with love and integrity. I honor my authentic self and trust in the power of honesty.",
+      "actionStep": "Take a moment to reflect on an area of your life where you’ve been holding back your truth. It could be a conversation you’ve been avoiding, a feeling you’ve been suppressing, or an aspect of yourself you’ve been hiding. Take one step today toward embracing and expressing your truth, whether it’s through a conversation, a journal entry, or a small act of authenticity.",
+      "image": "truthfulness.jpg"
+  }
+  ]
+}

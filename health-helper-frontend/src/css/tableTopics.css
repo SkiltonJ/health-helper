@@ -6,7 +6,7 @@
   min-height: calc(100vh - 160px);
   color: #f5f3e7;
   gap: 16px;
-  padding: 48px 0px 48px 0px;
+  padding: 48px 48px 48px 48px;
 }
 
 .table-topics_header {

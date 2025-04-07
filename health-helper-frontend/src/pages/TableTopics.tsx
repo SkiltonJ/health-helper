@@ -11,7 +11,7 @@ const TableTopics = () => {
   const tableTopics = data.cards;
 
   const handleOnClick = () => {
-    setShowRules(!showRules);
+    setShowRules((prevShowRules) => !prevShowRules);
   };
 
   const handleRandomTopic = () => {

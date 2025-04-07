@@ -4,7 +4,7 @@ import "../css/rootLayout.css";
 
 const RootLayout = () => {
   return (
-    <div className='w-full md:flex flex-col'>
+    <div className='w-full md:flex flex-col scrollable-container'>
       <Topbar />
 
       <section className='root-layout-section'>

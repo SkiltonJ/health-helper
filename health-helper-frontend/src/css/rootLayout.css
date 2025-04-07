@@ -1,0 +1,8 @@
+.root-layout-section {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0%;
+    height: 100%;
+    background-color: #001833;
+    color: #f5f3e7;
+}

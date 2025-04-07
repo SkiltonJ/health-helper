@@ -1,0 +1,724 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "topic": "What have you lost interest in recently?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 2,
+      "topic": "What is missing in your life?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 3,
+      "topic": "How have you helped someone else recently?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 4,
+      "topic": "What stands between you and happiness?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 5,
+      "topic": "When do you feel truly alive?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 6,
+      "topic": "If you had to teach something, what would you teach?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 7,
+      "topic": "When you meet someone for the first time, how do you want them to perceive you?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 8,
+      "topic": "What is your biggest pet peeve?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 9,
+      "topic": "What is your go to song that always puts you in a good mood?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 10,
+      "topic": "What makes you feel uncomfortable?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 11,
+      "topic": "If I handed you $5000 and told you that you had to spend it today, what would you buy?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 12,
+      "topic": "Are you more like your mum or your dad? In what ways?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 13,
+      "topic": "Who do you sometimes compare yourself to? Why? Does it help?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 14,
+      "topic": "What is an opportunity you regret not taking?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 15,
+      "topic": "In one year from today how would you like your life to be different?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 16,
+      "topic": "What is something you wish you had done earlier in life?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 17,
+      "topic": "What is something you don't like to do that you are really good at?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 18,
+      "topic": "What gets you excited about life?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 19,
+      "topic": "Who has impacted your life in a beautiful way?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 20,
+      "topic": "What is one thing you really admire about yourself?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 21,
+      "topic": "If you were a dog, what breed would you be? Why?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 22,
+      "topic": "Who depends on you?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 23,
+      "topic": "What have you done this month that is memorable?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 24,
+      "topic": "What recent memory makes you smile?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 25,
+      "topic": "What makes you proud of yourself?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 26,
+      "topic": "When do you feel most insecure?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 27,
+      "topic": "When have you faced the hardest time in your life?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 28,
+      "topic": "What is the number one change you want to make in your life? What is stopping you?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 29,
+      "topic": "What made you smile today?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 30,
+      "topic": "What do you look for in a partner?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 31,
+      "topic": "What do you look for in a friend?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 32,
+      "topic": "What does it mean to allow another person to truly love you?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 33,
+      "topic": "What is your favourite smell?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 34,
+      "topic": "What is your favourite vacation memory?, why?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 35,
+      "topic": "If you could go back in time and change something, would you? If yes, what would it be?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 36,
+      "topic": "When you are 80 years old, what do you think will matter to you the most?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 37,
+      "topic": "What are you addicted to? Why?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 38,
+      "topic": "How are you pursuing your dreams right now?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 39,
+      "topic": "What are two of your values that you will never break?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 40,
+      "topic": "When you think of 'Home', what comes to mind?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 41,
+      "topic": "What is something unusual about you?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 42,
+      "topic": "What has life taught you recently?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 43,
+      "topic": "Where else would you like to live? Why?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 44,
+      "topic": "What is one question you wish you knew the answer to?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 45,
+      "topic": "What is the best advice you have ever received?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 46,
+      "topic": "What is one question you wish you could ask your future self?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 47,
+      "topic": "What makes you proud of someone else?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 48,
+      "topic": "What is the biggest lie that you once believed was true?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 49,
+      "topic": "What are your favourite simple pleasures?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 50,
+      "topic": "What do humans all have in common?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 51,
+      "topic": "Based on your current daily actions, where would you expect to be in 5 years?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 52,
+      "topic": "What is your greatest strength?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 53,
+      "topic": "What is your greatest weakness?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 54,
+      "topic": "What is your biggest fear?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 55,
+      "topic": "What are your top 3 priorities?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 56,
+      "topic": "What is your favourite book? Why?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 57,
+      "topic": "What is your favourite movie? Why?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 58,
+      "topic": "What is your favourite TV show? Why?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 59,
+      "topic": "At which point in your life have you felt the most lost and/or alone?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 60,
+      "topic": "What is your favourite thing about yourself?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 61,
+      "topic": "What do you need to thrive?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 62,
+      "topic": "What is your favourite thing about your life?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 63,
+      "topic": "What do you need to forgive yourself for?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 64,
+      "topic": "What do you need to forgive someone else for?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 65,
+      "topic": "What do you want to change about the world?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 66,
+      "topic": "What is your favourite thing about the world?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 67,
+      "topic": "What experience from your past do you appreciate the most?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 68,
+      "topic": "What has been your biggest lesson that turned out to be a blessing?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 69,
+      "topic": "What is your favourite thing about your family?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 70,
+      "topic": "Why do we think of others the most when they are gone?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 71,
+      "topic": "What do you think is worth waiting for?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 72,
+      "topic": "What is the most spontaneous thing you have ever done?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 73,
+      "topic": "Do you believe your karma is good or bad?, why?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 74,
+      "topic": "If I could grant you one wish, what would you wish for?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 75,
+      "topic": "Who or what do you think of when you think of 'love'?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 76,
+      "topic": "What key qualities make you, you?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 77,
+      "topic": "What is something you will never give up on?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 78,
+      "topic": "What is a memory that randomly came back to you lately?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 79,
+      "topic": "How would you spend your ideal day?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 80,
+      "topic": "What are your non-negotiables in a relationship?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 81,
+      "topic": "What is one of your fondest childhood memories?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 82,
+      "topic": "Which is worse, failing or never trying?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 83,
+      "topic": "How many of your friends would you trust with your life?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 84,
+      "topic": "Do you think religion advocates unity or division?. why?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 85,
+      "topic": "What positive changes have you made in the world?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 86,
+      "topic": "If you could relive one day of your life, which day would it be?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 87,
+      "topic": "If you could relive yesterday what would you do differently?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 88,
+      "topic": "Is ignorance bliss?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 89,
+      "topic": "Can there be happiness without sadness?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 90,
+      "topic": "How would you describe yourself in one sentence?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 91,
+      "topic": "What does a 'rich life' look like to you?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 92,
+      "topic": "What fear stops you from doing something you want to do?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 93,
+      "topic": "What do you have trouble seeing clearly in your mind?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 94,
+      "topic": "What good has come from your suffering?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 95,
+      "topic": "What are you looking forward to?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 96,
+      "topic": "What excites you about the future?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 97,
+      "topic": "What is the most important thing you have learned in life?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 98,
+      "topic": "What is the most important thing you have learned about yourself?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 99,
+      "topic": "What is the most important thing you have learned about others?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 100,
+      "topic": "What is the most important thing you have learned about love?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 101,
+      "topic": "What is one responsibility you wish you could get rid of?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 102,
+      "topic": "What was a defining moment in your life?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 103,
+      "topic": "Which personality traits do you admire in others?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 104,
+      "topic": "Which personality traits anger you most?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 105,
+      "topic": "What is your number one goal for the next six months?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 106,
+      "topic": "When in your life have you been the victim of stereotyping?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 107,
+      "topic": "What qualities make someone a good leader?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 108,
+      "topic": "When all is said and done, will you have said more than you have done?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 109,
+      "topic": "If today was your last day, who would you call and what would you say?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 110,
+      "topic": "Think of someone you have struggled with in the past, how does their heart differ from yours?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 111,
+      "topic": "What empowers you?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 112,
+      "topic": "If you had a friend who spoke to you the way you speak to yourself would you allow them to be your friend?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 113,
+      "topic": "What is the most important thing you have done today?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 114,
+      "topic": "What is the most valuable lesson you have learnt from your parents?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 115,
+      "topic": "What could society do without?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 116,
+      "topic": "If your life was a story, what would the title be?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    },
+    {
+      "id": 117,
+      "topic": "If your life was a story, how would you want it to end?",
+      "backgroundColor": "#d9b05e",
+      "textColor": "#111111"
+    },
+    {
+      "id": 118,
+      "topic": "What impact do you want to leave on the world?",
+      "backgroundColor": "#fee3c6",
+      "textColor": "#111111"
+    },
+    {
+      "id": 119,
+      "topic": "Do you think you can change the world?",
+      "backgroundColor": "#c69d4b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": 120,
+      "topic": "What is your deepest desire?",
+      "backgroundColor": "#f7c899",
+      "textColor": "#111111"
+    }
+  ]
+}
